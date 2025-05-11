@@ -2,7 +2,7 @@
 
 A comprehensive web application for tracking personal expenses with real-time synchronization across multiple browser tabs, interactive visualizations, and financial insights.
 
-To view project-click here[]
+To view project-click here[https://staging.d3cjgvjkcc358z.amplifyapp.com/]
 
 ## Features
 
