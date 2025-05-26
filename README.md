@@ -1,3 +1,7 @@
+
+
+Uploading expense tracker video.mp4…
+
 # Real-Time Expense Tracker Dashboard
 
 A comprehensive web application for tracking personal expenses with real-time synchronization across multiple browser tabs, interactive visualizations, and financial insights.
